@@ -14,7 +14,7 @@ DangerZone.lua Gamesense:
 此LUA可以有效的将你的头号特训作弊强度提升超过200%-1000%。
 只需要加载 !!!DangerZone Stable.lua 即可一键加载全部子lua。
 如果你的电脑配置较低，建议加载 !!!DangerZone Lite.lua 可减缓FPS损耗。
-这是本LUA的HVH专用版本，MM版本在官匹叱咤风云，吊打各路主播，详见https://space.bilibili.com/673717708视频强度可查。
+这是本LUA的HVH专用版本，MM版本在官匹叱咤风云，吊打各路主播，详见https://space.bilibili.com/673717708/ 视频强度可查。
 当你启用shieldbot功能时，停止使用一切武器库lua是强制性的，因为武器库会强制回调你的HITBOX设定导致shieldbot工作异常。
 当你使用无人机操纵时，关闭BODYYAW是强制性的，最好完全关闭ANTIAIM，让操纵无人机变得完全稳定，但需要注意躲藏的位置安全且不被发现。
 当你使用speedhack功能时，建议绑定除了跳跃以外的第二个键，装备EXOJUMP时关闭BUNNYHOP是强制性的，不然无法进行二次起跳。
