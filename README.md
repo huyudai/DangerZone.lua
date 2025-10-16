@@ -1,4 +1,4 @@
-<img width="653" height="477" alt="image" src="https://github.com/user-attachments/assets/16ed4675-97ad-4829-b6bb-08e62e2743d3" /># 关于头号特训
+# 关于头号特训
 ## 特别鸣谢
 - [@HuYiDao](https://github.com/huyudai)<br>
 - [@ZGXaimware](https://github.com/zgxaimware)<br>
@@ -30,12 +30,12 @@
 此 LUA 可以有效地将你的头号特训作弊强度提升 **200% - 1000%+**。<br>
 只需要加载 `!!!DangerZone.lua` 即可一键加载全部子 lua。你可以自行更改这个lua的require来去除和添加子lua。<br>
 如果你的电脑配置较低，建议加载 `!!!DangerZone Lite.lua`，可减缓 FPS 损耗。<br>
-- 当你启用 **shieldbot** 功能时，**停止使用一切武器库脚本是强制性的**，因为武器库会强制回调你的 HITBOX 设定导致 shieldbot 工作异常。<br>
+- 当你启用 **shieldbot** 功能时，**停止使用一切武器库 lua** 是强制性的，因为武器库会强制回调你的 HITBOX 设定导致 shieldbot 工作异常。<br>
 - 当你操纵 **无人机** 时，**关闭 BODYYAW 是强制性的**，最好完全关闭 ANTIAIM，让操纵无人机变得完全稳定，但需要注意躲藏的位置安全且不被发现。<br>
 - 当你使用 **speedhack** 功能时，建议绑定除了speedhack以外的第二个键；装备 EXO弹射装置 时 **关闭 BUNNYHOP 是强制性的**，不然无法进行二次起跳。<br>
 - 锁定无人机和油桶的掩体判断不是精准的，通常会有不准确性，注意子弹距离衰减再设定。<br>
-- 使用 **betterbox** 功能时，应当注意你的设定与 Gamesense 本体 ESP 的冲突。<br>
-- 使用 **betterbox** 的 `DangerZoneMode` 和 `DzSniffer` 在单排 HVH 模式下，检测玩家复活时间是无用的，请忽略。<br>
+- 使用 **BETTERBOX** 功能时，应当注意你的设定与 Gamesense 本体 ESP 的冲突。<br>
+- 使用 BETTERBOX 的 `DangerZoneMode` 和 `DzSniffer` 在单排 HVH 模式下，检测玩家复活时间是无用的，请忽略。<br>
 ---
 ## DangerZone.lua — Aimware
 - 添加了 `hvh.cfg`，这是在 ZGXAIMWARE 的 mm.cfg 版本的基础上修改的。<br>
