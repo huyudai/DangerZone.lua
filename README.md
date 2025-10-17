@@ -5,7 +5,15 @@
 - [@nata](https://github.com/explodingdigg)<br>
 - [@Aviarita](https://github.com/Aviarita)<br>
 ---
-## DangerZone Gamesense 6.4 Stable更新
+## 更新日志
+**DangerZone[Gamesense]v6.5**<br>
+- 修改避免大盾的逻辑 当玩家背着盾在设定的角度背对你时 自动调整hitbox为feet 当玩家举着盾在设定的角度正对你时 支持三种模式热键切换:**只打头 只打脚 关闭暴力机器人**<br>
+- 添加哨戒枪自瞄 支持掩体判定墙后不锁定 可开关距离和可见度数值绘制<br>
+- 改进距离指示器<br>
+- 添加关闭Jammer效果<br>
+- (不稳定)添加最终圈检测<br>
+---
+**DangerZone[Gamesense]v6.4**<br>
 - 添加了购买/复活/死亡/断开连接 监听器<br>
 - 改进无人机检测，识别人工控制和物品运送无人机，不锁定没用的无人机，支持掩体判定墙后不锁定<br>
 - 去除无用的鸡ESP 添加爆炸桶自瞄 支持掩体判定墙后不锁定<br>
